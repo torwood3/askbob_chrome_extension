@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "AskBob",
-  "description": "This extension demonstrates a browser action with kittens.",
+  "description": "Extension du site AskBob",
   "version": "1.0",
   "permissions": [
   	"tabs"
